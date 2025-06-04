@@ -158,7 +158,7 @@ header {
 }
 
 .concept-img {
-    background-image: url(../images/concept.jpg.jpg);
+    background-image: url(./concept.jpg);
     background-position: center;
     background-size: cover;
     height: 340px;
@@ -263,7 +263,7 @@ header {
 
 /* ボトム */
 .column-a {
-    background-image: url(../images/bottom1.jpg.jpg);
+    background-image: url(./bottom1.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -272,7 +272,7 @@ header {
 }
 
 .column-b {
-    background-image: url(../images/bottom2.jpg.jpg);
+    background-image: url(./bottom2.jpg);
     background-position: center;
     background-size: cover;
     width: 18%;
@@ -282,7 +282,7 @@ header {
 }
 
 .column-c {
-    background-image: url(../images/bottom3.jpg.jpg);
+    background-image: url(./bottom3.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -292,7 +292,7 @@ header {
 }
 
 .column-d {
-    background-image: url(../images/bottom4.jpg.jpg);
+    background-image: url(./bottom4.jpg);
     background-position: center;
     background-size: cover;
     width: 28%;
